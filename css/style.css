@@ -133,10 +133,10 @@ ul {
   padding: 188px 0;
   background-image: url(/images/people-office.jpg);
   background-repeat: no-repeat;
+  background-position: 50% 50%;
 }
 
 .title {
-  background: var(--NAVY-BLUE, #2e2f42);
   color: var(--WHITE, #fff);
   font-size: 56px;
   font-weight: 700;
