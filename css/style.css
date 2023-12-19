@@ -344,6 +344,7 @@ ul {
   flex-shrink: 0;
   display: inline-block;
   margin-bottom: 16px;
+  transition-property: color;
 }
 
 .text-footer {
@@ -354,6 +355,7 @@ ul {
 
 .logo-three {
   color: #f4f4fd;
+  transition-property: color;
 }
 
 .footer .logo-three:hover,
