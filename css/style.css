@@ -168,6 +168,7 @@ ul {
   height: 56px;
   margin: 0 auto;
   cursor: pointer;
+  transition-property: background;
 }
 
 .button-order:hover,
