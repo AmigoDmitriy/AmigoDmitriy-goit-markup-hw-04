@@ -280,6 +280,10 @@ ul {
   margin-bottom: 72px;
 }
 
+.socials-icons {
+  border-radius: 50%;
+}
+
 /* Main section 4 */
 
 .item-list {
