@@ -283,8 +283,11 @@ ul {
   margin-bottom: 72px;
 }
 
-.socials-icons {
-  border-radius: 50%;
+.team-icons-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24;
 }
 
 /* Main section 4 */
