@@ -285,9 +285,12 @@ ul {
 
 .team-icons-list {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+  padding-top: 20px;
   gap: 24;
+  padding-left: 32px;
+  padding-right: 32px;
 }
 
 /* Main section 4 */
