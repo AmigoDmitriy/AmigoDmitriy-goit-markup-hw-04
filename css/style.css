@@ -303,6 +303,9 @@ ul {
   background-color: #4d5ae5;
   border-radius: 50%;
 }
+.socials-icons {
+  fill: currentColor;
+}
 
 /* Main section 4 */
 
