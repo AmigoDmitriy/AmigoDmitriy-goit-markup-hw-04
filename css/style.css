@@ -396,3 +396,11 @@ ul {
 .footer .link-footer:focus {
   color: #fff;
 }
+.footer-socials-icons {
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+}
+.footer-icons {
+  margin-left: 120px;
+}
