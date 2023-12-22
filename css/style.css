@@ -262,6 +262,7 @@ ul {
 }
 
 .icons-container {
+  display: flex;
   border: 1px solid var(--LIGHT-SLATE, #8e8f99);
   background-color: #f4f4fd;
   border-radius: 4px;
