@@ -408,11 +408,7 @@ ul {
 .footer .link-footer:focus {
   color: #fff;
 }
-.footer-socials-icons {
-  color: #fff;
-  justify-content: center;
-  align-items: center;
-}
+
 .footer-icons {
   margin-left: 120px;
 }
@@ -422,16 +418,20 @@ ul {
   justify-content: center;
   align-items: center;
   gap: 24px;
-  margin-left: 434px;
-  margin-right: 556px;
+  margin-top: 16px;
 }
 .item-team-element {
   width: 40px;
   height: 40px;
 }
 .footer-socials-icons {
+  color: #fff;
+  font-weight: 500;
   display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: -110px;
+  margin-right: 20px;
 }
 .item-link-footer {
   display: flex;
