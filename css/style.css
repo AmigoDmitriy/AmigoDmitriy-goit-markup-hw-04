@@ -263,12 +263,13 @@ ul {
 
 .icons-container {
   display: flex;
-  border: 1px solid var(--LIGHT-SLATE, #8e8f99);
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #8e8f99;
   background-color: #f4f4fd;
   border-radius: 4px;
   width: 264px;
   height: 112px;
-  padding: 24px 100px;
   margin-bottom: 8px;
 }
 
