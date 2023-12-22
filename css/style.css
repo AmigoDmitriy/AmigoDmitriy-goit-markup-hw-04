@@ -251,10 +251,12 @@ ul {
 
 .icons-container {
   border: 1px solid var(--LIGHT-SLATE, #8e8f99);
-  background: var(--CLOUD, #f4f4fd);
+  background-color: #f4f4fd;
   border-radius: 4px;
   width: 264px;
   height: 112px;
+  padding: 24px 100px;
+  margin-bottom: 8px;
 }
 
 /* Main section 3 */
