@@ -408,6 +408,21 @@ ul {
 .footer-icons {
   margin-left: 120px;
 }
+
+.footer-icons-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.item-team-element {
+  width: 40px;
+  height: 40px;
+}
+.footer-socials-icons {
+  display: flex;
+  margin-top: -100px;
+}
 .item-link-footer {
   display: flex;
   justify-content: center;
@@ -418,13 +433,7 @@ ul {
   background-color: #4d5ae5;
   border-radius: 50%;
 }
-.footer-icons-list {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 24px;
-}
-.item-team-element {
-  width: 40px;
-  height: 40px;
+.item-link-footer:hover,
+.item-link-footer:focus {
+  background-color: #31d0aa;
 }
