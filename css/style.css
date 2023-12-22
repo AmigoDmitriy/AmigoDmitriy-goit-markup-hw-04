@@ -231,7 +231,15 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-
+.icons-container {
+  border: 1px solid var(--LIGHT-SLATE, #8e8f99);
+  align-items: center;
+  justify-content: center;
+  background: var(--CLOUD, #f4f4fd);
+  border-radius: 4px;
+  width: 264px;
+  height: 112px;
+}
 /* Main section 3 */
 
 .section-three {
