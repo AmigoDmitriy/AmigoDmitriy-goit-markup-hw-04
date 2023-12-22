@@ -416,6 +416,9 @@ ul {
   border-right: 1px solid var(--CORNFLOWER, #e7e9fc);
   padding: 32px 16px;
 }
+.finger-block {
+  padding-left: 310px;
+}
 
 /* Footer */
 .footer {
