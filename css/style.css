@@ -529,5 +529,7 @@ ul {
 }
 .socials-block {
   margin-top: 100px;
-  margin-left: 120px;
+}
+.logo-block {
+  margin-right: 120px;
 }
