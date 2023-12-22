@@ -503,3 +503,7 @@ ul {
 .container-footer {
   display: flex;
 }
+.socials-block {
+  margin-top: 100px;
+  margin-left: 120px;
+}
