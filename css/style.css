@@ -356,9 +356,11 @@ ul {
   width: 100%;
   height: 100%;
   background-color: #4d5ae5;
+  transform: translateY(100%);
 }
 .portfolio-wrapper {
   position: relative;
+  overflow: hidden;
 }
 
 .item-list:hover {
