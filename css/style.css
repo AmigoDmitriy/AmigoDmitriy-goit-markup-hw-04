@@ -295,11 +295,11 @@ ul {
 }
 .item-link {
   display: flex;
-  justify-content: center;
   align-items: center;
-  color: #f4f4fd;
+  justify-content: center;
   width: 100%;
   height: 100%;
+  color: #f4f4fd;
   background-color: #4d5ae5;
   border-radius: 50%;
 }
@@ -414,6 +414,8 @@ ul {
   justify-content: center;
   align-items: center;
   gap: 24px;
+  margin-left: 434px;
+  margin-right: 556px;
 }
 .item-team-element {
   width: 40px;
@@ -421,15 +423,15 @@ ul {
 }
 .footer-socials-icons {
   display: flex;
-  margin-top: -100px;
+  margin-top: -110px;
 }
 .item-link-footer {
   display: flex;
-  justify-content: center;
   align-items: center;
-  color: #f4f4fd;
+  justify-content: center;
   width: 100%;
   height: 100%;
+  color: #f4f4fd;
   background-color: #4d5ae5;
   border-radius: 50%;
 }
