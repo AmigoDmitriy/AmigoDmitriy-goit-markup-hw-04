@@ -30,8 +30,10 @@ img {
 }
 
 .link {
+  position: relative;
   text-decoration: none;
   letter-spacing: 0.02em;
+  bottom: -1px;
 }
 
 /* Removing internal padding */
@@ -130,7 +132,7 @@ ul {
   color: #404bbf;
 }
 .link.active {
-  color: var(--OCEAN, #404bbf);
+  color: #404bbf;
 }
 .link.active::after {
   content: "";
@@ -139,8 +141,8 @@ ul {
   height: 4px;
   border-radius: 2px;
   background-color: var(--OCEAN, #404bbf);
-  position: relative;
-  top: 20px;
+  position: absolute;
+  bottom: 0;
 }
 
 /* Main-Section 1*/
