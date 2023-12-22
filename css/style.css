@@ -129,6 +129,16 @@ ul {
 .adress .link:hover {
   color: #404bbf;
 }
+.link.active::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 4px;
+  border-radius: 2px;
+  background-color: var(--OCEAN, #404bbf);
+  position: relative;
+  top: 20px;
+}
 
 /* Main-Section 1*/
 .one-section {
@@ -233,13 +243,14 @@ ul {
 }
 .icons-container {
   border: 1px solid var(--LIGHT-SLATE, #8e8f99);
-  align-items: center;
-  justify-content: center;
   background: var(--CLOUD, #f4f4fd);
   border-radius: 4px;
   width: 264px;
   height: 112px;
 }
+.benefits-icon {
+}
+
 /* Main section 3 */
 
 .section-three {
