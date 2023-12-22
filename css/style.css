@@ -249,7 +249,7 @@ ul {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
   margin-bottom: 8px;
 }
 
@@ -502,6 +502,7 @@ ul {
   margin-top: -110px;
   letter-spacing: 0.02em;
   margin-bottom: 16px;
+  margin-left: -110px;
 }
 
 .item-link-footer {
