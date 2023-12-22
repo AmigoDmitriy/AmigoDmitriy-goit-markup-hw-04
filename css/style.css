@@ -489,7 +489,7 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 24px;
+  gap: 16px;
   margin-top: 16px;
 }
 
@@ -505,7 +505,8 @@ ul {
   justify-content: center;
   align-items: center;
   margin-top: -110px;
-  margin-right: 20px;
+  letter-spacing: 0.02em;
+  margin-bottom: 16px;
 }
 
 .item-link-footer {
