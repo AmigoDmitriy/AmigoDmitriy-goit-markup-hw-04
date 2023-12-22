@@ -461,7 +461,7 @@ ul {
 }
 
 .text-footer {
-  color: var(--CLOUD, #f4f4fd);
+  color: #f4f4fd;
   letter-spacing: 0.32px;
   max-width: 264px;
 }
@@ -486,7 +486,6 @@ ul {
   justify-content: center;
   align-items: center;
   gap: 16px;
-  margin-top: 16px;
 }
 
 .item-team-element {
@@ -524,9 +523,10 @@ ul {
   display: flex;
   align-items: baseline;
 }
-.socials-block {
-  margin-top: 100px;
-}
+
 .logo-block {
   margin-right: 120px;
+}
+.footer-svg {
+  fill: #f4f4fd;
 }
