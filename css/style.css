@@ -129,6 +129,9 @@ ul {
 .adress .link:hover {
   color: #404bbf;
 }
+.link.active {
+  color: var(--OCEAN, #404bbf);
+}
 .link.active::after {
   content: "";
   display: block;
