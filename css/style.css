@@ -440,7 +440,7 @@ ul {
 
 /* Footer */
 .footer {
-  background: var(--NAVY-BLUE, #2e2f42);
+  background-color: #2e2f42;
   padding: 100px 0;
 }
 
@@ -479,10 +479,6 @@ ul {
 .footer .link-footer:hover,
 .footer .link-footer:focus {
   color: #fff;
-}
-
-.footer-icons {
-  margin-left: 120px;
 }
 
 .footer-icons-list {
