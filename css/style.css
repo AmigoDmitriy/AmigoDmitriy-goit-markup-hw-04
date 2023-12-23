@@ -33,7 +33,6 @@ img {
   position: relative;
   text-decoration: none;
   letter-spacing: 0.02em;
-  bottom: -1px;
 }
 
 /* Removing internal padding */
@@ -152,10 +151,8 @@ ul {
   bottom: -1px;
   left: 0;
 }
-.mailto {
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-.tel {
+
+.adress-link {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
