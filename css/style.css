@@ -463,7 +463,6 @@ ul {
   color: #f4f4fd;
   letter-spacing: 0.32px;
   max-width: 264px;
-  margin-bottom: 16px;
 }
 
 .logo-three {
@@ -501,8 +500,8 @@ ul {
   align-items: center;
   margin-top: -110px;
   letter-spacing: 0.02em;
-  margin-bottom: 16px;
   margin-left: -110px;
+  margin-bottom: 16px;
 }
 
 .item-link-footer {
