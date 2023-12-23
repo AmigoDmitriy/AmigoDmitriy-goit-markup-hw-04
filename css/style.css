@@ -152,7 +152,7 @@ ul {
   bottom: -1px;
   left: 0;
 }
-.ink-adress {
+.adress-link {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
