@@ -500,10 +500,9 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: -110px;
   letter-spacing: 0.02em;
-  margin-left: -110px;
   margin-bottom: 16px;
+  margin-left: -110px;
 }
 
 .item-link-footer {
