@@ -355,6 +355,12 @@ ul {
   fill: currentColor;
 }
 
+.text-team {
+  color: #434455;
+  letter-spacing: 0.32px;
+  margin-bottom: 8px;
+}
+
 /* Main section 4 */
 
 .item-list {
